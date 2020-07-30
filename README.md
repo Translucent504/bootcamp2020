@@ -1,6 +1,4 @@
-# bootcamp2020 Project Hub
-Repo to contain code for day 1 (31May2020)  
-Auto Deploys to [Surge](http://eru-bootcamp2020-day1.surge.sh/)
+# Boot Camp 2020 Project Hub
 
 ## Project 1 - Expense Tracker App
   - [Github](https://github.com/Translucent504/expensetracker)
@@ -25,3 +23,7 @@ Auto Deploys to [Surge](http://eru-bootcamp2020-day1.surge.sh/)
 ## Project 6 - Quiz App with React & TypeScript
   - [Github](https://github.com/Translucent504/quiz)
   - [Surge Deployment](http://eru-quiz.surge.sh/)
+  
+## Project 7A - Expense Tracker App - PWA + TypeScript
+  - [Github](https://github.com/Translucent504/expensetrackerpwa)
+  - [Surge Deployment](https://eru-pwa-expensetracker.surge.sh/)
