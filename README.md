@@ -24,6 +24,10 @@
   - [Github](https://github.com/Translucent504/quiz)
   - [Surge Deployment](http://eru-quiz.surge.sh/)
   
-## Project 7A - Expense Tracker App - PWA + TypeScript
-  - [Github](https://github.com/Translucent504/expensetrackerpwa)
-  - [Surge Deployment](https://eru-pwa-expensetracker.surge.sh/)
+## Project 7A + 7B - Expense Tracker + Quiz App - PWA + TypeScript + Tested with @testing-library/react
+  - [Github Expense Tracker](https://github.com/Translucent504/expensetrackerpwa)
+  - [Surge Deployment Expense Tracker PWA](https://eru-pwa-expensetracker.surge.sh/)
+  - [Github ERU Quiz App](https://github.com/Translucent504/quiz)
+  - [Surge Deployment Quiz App PWA](https://eru-quiz.surge.sh/)
+
+
