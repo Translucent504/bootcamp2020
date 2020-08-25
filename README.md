@@ -34,7 +34,7 @@
   - [Github React Timer](https://github.com/Translucent504/reacttimer)
   - [Surge Deployment React Timer](https://eru-reacttimer.surge.sh/)
   
-## Project 8 - Space X Client Application with React, TypeScript, Apollo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA.
+## Project 8 - Space X Client Application with React, TypeScript, Apollo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA. (also has Infinite Scrolling)
   - [Github SpaceX](https://github.com/Translucent504/spacex)
   - [Netlify Deployment](https://competent-mayer-ca11af.netlify.app/)
 
