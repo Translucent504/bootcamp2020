@@ -30,7 +30,11 @@
   - [Firebase Deployment Expense Tracker PWA](https://bootcamp-push-e1107.web.app)
   - [Github ERU Quiz App](https://github.com/Translucent504/quiz)
   - [Surge Deployment Quiz App PWA](https://eru-quiz.surge.sh/)
-## Project 7B
+## Project 7B - React Timer App using TypeScript with Test Driven Development
   - [Github React Timer](https://github.com/Translucent504/reacttimer)
   - [Surge Deployment React Timer](https://eru-reacttimer.surge.sh/)
+  
+## Project 8 - Space X Client Application with React, TypeScript, Apollo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA.
+  - [Github SpaceX](https://github.com/Translucent504/spacex)
+  - [Netlify Deployment](https://competent-mayer-ca11af.netlify.app/)
 
