@@ -37,4 +37,8 @@
 ## Project 8 - Space X Client Application with React, TypeScript, Apollo Client 3, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA. (also has Infinite Scrolling)
   - [Github SpaceX](https://github.com/Translucent504/spacex)
   - [Netlify Deployment](https://competent-mayer-ca11af.netlify.app/)
+  
+## Project 9A - Create a Shopping Basket using React and Redux Toolkit with TypeScript
+  - [Github Basket](https://github.com/Translucent504/redux-toolkit-shopping-basket)
+  - [Deployed to Vercel](https://redux-toolkit-shopping-basket.vercel.app/)
 
