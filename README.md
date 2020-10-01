@@ -41,6 +41,9 @@
 ## Project 9A - Create a Shopping Basket using React and Redux Toolkit with TypeScript
   - [Github Basket](https://github.com/Translucent504/redux-toolkit-shopping-basket)
   - [Deployed to Vercel](https://redux-toolkit-shopping-basket.vercel.app/)
+  
+## Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript
+  - [Github Repo](https://github.com/Translucent504/diaries)
 
 ## Project 10: Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript
   - [Github Multistep Form](https://github.com/Translucent504/multistep-form)
