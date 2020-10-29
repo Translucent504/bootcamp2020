@@ -48,3 +48,11 @@
 ## Project 10: Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript
   - [Github Multistep Form](https://github.com/Translucent504/multistep-form)
   - [Deployed to Surge](http://eru-multistepform.surge.sh/)
+  
+## Project 11: Taskbox React Component in TypeScript using Storybook and Publishing it on Bit
+  - [Published to bit.dev](https://bit.dev/eru/bootcamp-taskbox)
+  - [Github repo](https://github.com/Translucent504/taskbox)
+  
+## Project 12A: 
+  - [Netlify Deployment](https://eru-gatsby-contentful-blog.netlify.app/)
+  - [Github repo](https://github.com/Translucent504/eru-project12a)
