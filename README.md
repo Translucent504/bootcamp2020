@@ -43,6 +43,7 @@
   - [Deployed to Vercel](https://redux-toolkit-shopping-basket.vercel.app/)
   
 ## Project 9B: Building Diaries App using React and Redux Toolkit with TypeScript
+  - [Netlify Deployment](https://eru-diaries.netlify.app/)
   - [Github Repo](https://github.com/Translucent504/diaries)
 
 ## Project 10: Signup Form and Multi-Step Form with Formik, Yup, and Material UI using TypeScript
