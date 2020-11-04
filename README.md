@@ -57,6 +57,14 @@
   - [Netlify Deployment](https://eru-gatsby-contentful-blog.netlify.app/)
   - [Github repo](https://github.com/Translucent504/eru-project12a)
   
+## Project 12B/C: FaunaDB Crud Serverless
+  - [Netlify Deployment](https://eru-fauna-crud.netlify.app/)
+  - [Github Repo](https://github.com/Translucent504/eru-project12b)
+
+## Project 12D: Bookmark App, FaunaDB, Gatsby.
+  - [Netlify Deployment]()
+  - [Github Repo](https://github.com/Translucent504/eru-project12d)
+  
 ## Project 12E:
   - [Netlify Deployment](https://eru-lolly.netlify.app/)
   - [Github Repo](https://github.com/Translucent504/eru-project12e/tree/master/virtual%20lolly)
