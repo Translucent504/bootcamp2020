@@ -56,3 +56,7 @@
 ## Project 12A: 
   - [Netlify Deployment](https://eru-gatsby-contentful-blog.netlify.app/)
   - [Github repo](https://github.com/Translucent504/eru-project12a)
+  
+## Project 12E:
+  - [Netlify Deployment](https://eru-lolly.netlify.app/)
+  - [Github Repo](https://github.com/Translucent504/eru-project12e/tree/master/virtual%20lolly)
