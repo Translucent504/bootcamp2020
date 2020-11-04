@@ -54,7 +54,7 @@
   - [Published to bit.dev](https://bit.dev/eru/bootcamp-taskbox)
   - [Github repo](https://github.com/Translucent504/taskbox)
   
-## Project 12A: 
+## Project 12A: Gatsby Blog
   - [Netlify Deployment](https://eru-gatsby-contentful-blog.netlify.app/)
   - [Github repo](https://github.com/Translucent504/eru-project12a)
   
@@ -66,6 +66,6 @@
   - [Netlify Deployment]()
   - [Github Repo](https://github.com/Translucent504/eru-project12d)
   
-## Project 12E:
+## Project 12E: Virtual Lolly, FaunaDB, Gatsby, GraphQL, Apollo.
   - [Netlify Deployment](https://eru-lolly.netlify.app/)
   - [Github Repo](https://github.com/Translucent504/eru-project12e/tree/master/virtual%20lolly)
