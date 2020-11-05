@@ -66,6 +66,6 @@
   - [Netlify Deployment]()
   - [Github Repo](https://github.com/Translucent504/eru-project12d)
   
-## Project 12E: Virtual Lolly, FaunaDB, Gatsby, GraphQL, Apollo.
+## Bootcamp 2020 Project E: Virtual Lolly using Gatsby, Netlify, FaunaDB, Formik, and Storybook 6
   - [Netlify Deployment](https://eru-lolly.netlify.app/)
   - [Github Repo](https://github.com/Translucent504/eru-project12e/tree/master/virtual%20lolly)
