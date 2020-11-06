@@ -62,7 +62,7 @@
   - [Netlify Deployment](https://eru-fauna-crud.netlify.app/)
   - [Github Repo](https://github.com/Translucent504/eru-project12b)
 
-## Project 12D: Bookmark App, FaunaDB, Gatsby.
+## Project 12D: Bookmark App, FaunaDB, Gatsby, Apollo, Yup and Formik.
   - [Netlify Deployment](https://eru-serverless-bookmarks-fauna.netlify.app/)
   - [Github Repo](https://github.com/Translucent504/eru-project12d)
   
