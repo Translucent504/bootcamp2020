@@ -63,7 +63,7 @@
   - [Github Repo](https://github.com/Translucent504/eru-project12b)
 
 ## Project 12D: Bookmark App, FaunaDB, Gatsby.
-  - [Netlify Deployment]()
+  - [Netlify Deployment](https://eru-serverless-bookmarks-fauna.netlify.app/)
   - [Github Repo](https://github.com/Translucent504/eru-project12d)
   
 ## Bootcamp 2020 Project E: Virtual Lolly using Gatsby, Netlify, FaunaDB, Formik, and Storybook 6
