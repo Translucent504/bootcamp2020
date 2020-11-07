@@ -58,11 +58,11 @@
   - [Netlify Deployment](https://eru-gatsby-contentful-blog.netlify.app/)
   - [Github repo](https://github.com/Translucent504/eru-project12a)
   
-## Project 12B/C: FaunaDB Crud Serverless
+## Project 12B: FaunaDB Crud Serverless
   - [Netlify Deployment](https://eru-fauna-crud.netlify.app/)
   - [Github Repo](https://github.com/Translucent504/eru-project12b)
 
-## Project 12C:
+## Project 12C: JAMStack Todo app with Netlify Identity, Gatsby, GraphQL, and FaunaDB.
   - [Netlify Deployment](https://eru-todos.netlify.app/)
   - [Github Repo](https://github.com/Translucent504/eru-project12c)
 
