@@ -73,3 +73,19 @@
 ## Project 12E: Virtual Lolly using Gatsby, Netlify, FaunaDB, Formik, and Storybook 6
   - [Netlify Deployment](https://eru-lolly.netlify.app/)
   - [Github Repo](https://github.com/Translucent504/eru-project12e/tree/master/virtual%20lolly)
+  
+
+---
+
+# Ecommerce:
+  
+## Project XX: Gatsby Stripe Checkout:
+
+## Project XX: Gatsby Stripe Payment Intents
+
+## Project XX: Gatsby Snipcart
+
+## Project XX: Gatsby Shopping cart
+
+## Project XX: Gatsby Shoppify GraphQL
+
