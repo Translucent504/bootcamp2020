@@ -84,6 +84,8 @@
   - [Github Repo](https://github.com/Translucent504/eru-stripe-checkout)
 
 ## Project XX: Gatsby Stripe Payment Intents
+  - [Netlify Deployment](https://eru-stripe-api.netlify.app/)
+  - [Github Repo](https://github.com/translucent504/eru-stripe-api)
 
 ## Project XX: Gatsby Snipcart
 
