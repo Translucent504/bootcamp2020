@@ -80,6 +80,8 @@
 # Ecommerce:
   
 ## Project XX: Gatsby Stripe Checkout:
+  - [Netlify Deployment](https://eru-stripe-checkout.netlify.app/)
+  - [Github Repo](https://github.com/Translucent504/eru-stripe-checkout)
 
 ## Project XX: Gatsby Stripe Payment Intents
 
